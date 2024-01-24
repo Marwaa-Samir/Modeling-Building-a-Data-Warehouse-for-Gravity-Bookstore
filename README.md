@@ -1,5 +1,5 @@
 # Description:
-Designed 'gravity_books_dwh' using a star schema, implemented SQL integrity checks, added a date dimension, and created ETL (Extract, Transform, Load) by SSIS for efficient data population and SSAS for multidimensional cube browsing.
+*Designed 'gravity_books_dwh' using a star schema, implemented SQL integrity checks, added a date dimension, and created ETL (Extract, Transform, Load) by SSIS for efficient data population and SSAS for multidimensional cube browsing.*
 
 # Skills: 
 *ETL* - *SSIS* - *SSAS* - *Data Modeling* - *SQL*
